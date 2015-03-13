@@ -19,3 +19,6 @@ spring.zip
 repository/
 .idea
 *.iml
+
+#JIRA plugin
+atlassian-ide-plugin.xml
